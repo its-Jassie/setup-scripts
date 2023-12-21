@@ -19,7 +19,8 @@ brew install \
     wireguard-tools \
     mas \
     fastfetch \
-    thefuck
+    thefuck \
+    neovim
 
 #install cask apps
 brew install --cask \
