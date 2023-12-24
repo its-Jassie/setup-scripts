@@ -36,6 +36,7 @@ brew install --cask \
 mas install 1451685025 #wireguard
 mas install 1440147259 #adguard for safari
 mas install 1498497896 #raivo receiver
+mas install 1464122853 #nextDNS
 
 #sideserver
 curl -L -o SideServer.dmg https://github.com/SideStore/SideServer-macOS/releases/latest/download/SideServer.dmg
