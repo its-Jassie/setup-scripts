@@ -29,7 +29,8 @@ brew install --cask \
     protonvpn \
     proton-drive \
     visual-studio-code \
-    github
+    github\
+    discord
 
 #install app store apps
 mas install 1451685025 #wireguard
